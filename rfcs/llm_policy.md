@@ -53,7 +53,9 @@ referenced both from the project's `README.md` file and the
 > Human-authored code discourse (e.g. issue descriptions, pull request
 > descriptions, and responses to discussion threads) should not include
 > LLM-generated content in the main text; any such content must be clearly
-> labelled and placed inside a `<details>` element.
+> labelled and placed inside a `<details>` element. A `<blockquote>` element
+> may instead be used to designate text if it is no longer than one paragraph
+> in length.
 >
 > #### Attribution
 >
